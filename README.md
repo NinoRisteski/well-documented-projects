@@ -1,6 +1,6 @@
-# Awesome Project Documentation
+# Well Documented Projects
 
-Welcome to Awesome Project Documentation! This repository is a curated list of projects with exceptional documentation practices. Whether you're a beginner looking to understand the basics of documentation or an experienced developer seeking advanced tips, you'll find valuable resources here.
+Welcome to Well Documented Projects! This repository is a curated list of projects with exceptional documentation practices. Whether you're a beginner looking to understand the basics of documentation or an experienced developer seeking advanced tips, you'll find valuable resources here.
 
 The goal of this repository is to highlight the importance of good documentation and to provide examples that illustrate best practices in action. By studying these projects, you can learn how to effectively document your own projects, making them more understandable, maintainable, and user-friendly.
 
