@@ -6,7 +6,7 @@ The goal of this repository is to highlight the importance of good documentation
 
 ## How to Use This Repository
 
-Browse through the list of projects to find documentation examples that suit your needs. Each project comes with a short description that outlines its documentation highlights and why it's included in this list.
+Browse through the [Well Documented Projects List](https://github.com/NinoRisteski/well-documented-projects/blob/main/WDP-List.md) to find documentation examples that suit your needs.
 
 ## Contributing
 
