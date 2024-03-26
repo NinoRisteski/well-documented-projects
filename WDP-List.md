@@ -5,3 +5,4 @@ Alec Helbling](https://github.com/helblazer811)
 3. [Keras Visualization Toolkit](https://github.com/raghakot/keras-vis) - [
 Raghavendra Kotikalapudi](https://github.com/raghakot)
 4. [Aider](https://github.com/paul-gauthier/aider) - [Paul Gauthier](https://github.com/paul-gauthier)
+5. [myGPTreader](https://github.com/madawei2699/myGPTReader) - [Dawei Ma](https://github.com/madawei2699)
