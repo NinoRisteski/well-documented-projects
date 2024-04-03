@@ -15,3 +15,5 @@ Raghavendra Kotikalapudi](https://github.com/raghakot)
 12. [A Visual Analysis Tool to Explore Learned Representations in Transformers Models](https://github.com/bhoov/exbert) - [Benjamin Hoover](https://github.com/bhoov)
 13. [Jittor implementation of PCT:Point Cloud Transformer](https://github.com/MenghaoGuo/PCT) - [MenghaoGuo](https://github.com/MenghaoGuo)
 14. [Port of Google's language-detection library to Python.](https://github.com/Mimino666/langdetect) - [Michal Danilák](https://github.com/Mimino666)
+15. [Leveraging BERT and c-TF-IDF to create easily interpretable topics.](https://github.com/MaartenGr/BERTopic) - [
+Maarten Grootendorst](https://github.com/MaartenGr)
