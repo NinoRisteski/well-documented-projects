@@ -18,3 +18,4 @@ Raghavendra Kotikalapudi](https://github.com/raghakot)
 15. [Leveraging BERT and c-TF-IDF to create easily interpretable topics.](https://github.com/MaartenGr/BERTopic) - [
 Maarten Grootendorst](https://github.com/MaartenGr)
 16. [RAGxplorer](https://github.com/gabrielchua/RAGxplorer) - [Gabriel Chua](https://github.com/gabrielchua)
+17. [Dot](https://github.com/alexpinel/Dot) - [alex pinel](https://github.com/alexpinel)
