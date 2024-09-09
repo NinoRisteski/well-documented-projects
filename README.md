@@ -9,6 +9,6 @@ Browse through the [Well Documented Projects List](https://github.com/NinoRistes
 
 ## Contributing
 
-Your contributions are welcome! If you know of a project that deserves to be on this list because of its outstanding documentation, please feel free to add it or suggest changes. 
+If you know of a project that deserves to be on this list because of its outstanding documentation, please feel free to add it or suggest changes. 
 
 Thank you for visiting, and happy learning!
